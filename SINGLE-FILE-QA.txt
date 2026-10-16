@@ -1,0 +1,8 @@
+[PASS] single file contains embedded CSS
+[PASS] single file contains embedded JS
+[PASS] logo embedded as data URI
+[PASS] course cover embedded as data URI
+[PASS] correct Razorpay URL
+[PASS] mobile fixed buy bar included
+[PASS] policy links stay within same file
+[PASS] upcoming lesson status included
