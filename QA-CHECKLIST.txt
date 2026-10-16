@@ -1,0 +1,11 @@
+Source-level checks (not a substitute for browser/device testing):
+[PASS] Supplied logo and cover are stored in the assets folder
+[PASS] Exact Razorpay payment URL retained
+[PASS] WhatsApp contact link retained
+[PASS] Lessons 01–14 remain in the included syllabus
+[PASS] Lesson 15 has a separate upcoming section
+[PASS] Navigation links target meaningful page sections
+[PASS] No LEARN • CREATE • GROW header slogan
+[PASS] Policy pages are clearly identified as drafts
+
+Manual checks still required after deployment: test all navigation links, mobile menu, FAQ keyboard interaction, payment destination, browser console, HTTPS, security headers, and responsive layout on real devices.
