@@ -1,0 +1,10 @@
+Source-level checks (not a substitute for browser/device testing):
+[PASS] correct payment URL
+[PASS] WhatsApp URL
+[PASS] 14 included lesson labels
+[PASS] lesson 15 upcoming
+[PASS] no prohibited header slogan
+[PASS] all FAQ questions present
+[PASS] supplied images copied
+
+Manual checks still required after deployment: payment destination, mobile/desktop layout, keyboard navigation, browser console, HTTPS, and security headers.
